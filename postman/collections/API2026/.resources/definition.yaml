@@ -1,0 +1,8 @@
+$kind: collection
+variables:
+  access_token: ""
+  refresh_token: ""
+auth:
+  - id: cc3e3aad-36c8-42c9-aeba-542217b38919
+    type: noauth
+    name: No Auth
