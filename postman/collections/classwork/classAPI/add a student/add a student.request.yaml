@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://127.0.0.1:5001/student
+method: POST
+body:
+  type: json
+  content: ""
+order: 1000

@@ -1,4 +1,7 @@
 $kind: http-request
-url: ""
-method: GET
+url: http://127.0.0.1:5000/students/1
+method: PUT
+body:
+  type: json
+  content: '{"level": "Senior"}'
 order: 4000

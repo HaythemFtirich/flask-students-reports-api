@@ -1,4 +1,39 @@
 $kind: http-request
-url: ""
-method: GET
+url: http://127.0.0.1:5000/students
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"FN\": \"Rami\",\r
+
+    \    \"LN\": \"Khelifi\",\r
+
+    \    \"Major\": \"Information Technology\",\r
+
+    \    \"dmajor\": true,\r
+
+    \    \"level\": \"Junior\",\r
+
+    \    \"reports\": [\r
+
+    \        {\r
+
+    \            \"Title\": \"Web Services\",\r
+
+    \            \"Type\": \"Technical\"\r
+
+    \        }\r
+
+    \    ]\r
+
+    }\r
+
+    \   \r
+
+    \   \r
+
+    \    \r
+
+    \    "
 order: 3000

@@ -1,4 +1,4 @@
 $kind: http-request
-url: ""
-method: GET
+url: http://127.0.0.1:5000/students/3
+method: DELETE
 order: 5000

@@ -1,0 +1,9 @@
+services:
+  server:
+    build:
+      context: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data   # keeps school.db on your PC, so it survives restarts
+

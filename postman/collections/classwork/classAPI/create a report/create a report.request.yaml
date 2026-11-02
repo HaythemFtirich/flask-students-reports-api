@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://127.0.0.1:5001/report
+method: POST
+order: 1000

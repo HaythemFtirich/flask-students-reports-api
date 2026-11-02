@@ -1,4 +1,4 @@
 $kind: http-request
 url: ""
-method: GET
+method: DELETE
 order: 11000

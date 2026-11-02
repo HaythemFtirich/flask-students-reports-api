@@ -1,4 +1,45 @@
 $kind: http-request
-url: ""
-method: GET
+url: http://127.0.0.1:5000/reports
+method: POST
+body:
+  type: json
+  content: "  {\r
+
+    \      \"ID_S\": 2,\r
+
+    \      \"Title\": \"Corporate Bond Pricing\",\r
+
+    \      \"Type\": \"Technical\",\r
+
+    \      \"k1\": \"Bonds\",\r
+
+    \      \"k2\": \"Yield\",\r
+
+    \      \"k3\": \"Interest Rates\",\r
+
+    \      \"releaseDate\": \"2026-04-02\"\r
+
+    \    }\r
+
+    \  \r
+
+    \  \r
+
+    \  \r
+
+    \  \r
+
+    \  \r
+
+    \  \r
+
+    \    \r
+
+    \    \r
+
+    \  \r
+
+    \   \r
+
+    \   "
 order: 9000

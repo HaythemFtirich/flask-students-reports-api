@@ -1,0 +1,16 @@
+# Things the container does not need
+__pycache__/
+*.pyc
+.venv/
+.vedv/
+venv/
+.git/
+.gitignore
+.postman/
+postman/
+.vscode/
+Dockerfile
+compose.yaml
+.dockerignore
+README*
+data/
