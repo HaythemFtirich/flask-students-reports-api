@@ -1,0 +1,204 @@
+[
+  {
+    "FN": "Sara",
+    "LN": "Ben Ali",
+    "Major": "Finance",
+    "dmajor": true,
+    "level": "Junior",
+    "reports": [
+      {
+        "Title": "Portfolio Risk Analysis",
+        "Type": "Research",
+        "k1": "Risk",
+        "k2": "Portfolio",
+        "k3": "Valuation",
+        "releaseDate": "2026-01-15"
+      },
+      {
+        "Title": "Corporate Bond Pricing",
+        "Type": "Technical",
+        "k1": "Bonds",
+        "k2": "Yield",
+        "k3": "Interest Rates",
+        "releaseDate": "2026-04-02"
+      }
+    ]
+  },
+  {
+    "FN": "Omar",
+    "LN": "Trabelsi",
+    "Major": "Business Analytics",
+    "dmajor": false,
+    "level": "Sophomore",
+    "reports": [
+      {
+        "Title": "Customer Churn Prediction",
+        "Type": "Technical",
+        "k1": "Python",
+        "k2": "Regression",
+        "k3": "Churn",
+        "releaseDate": "2026-02-10"
+      }
+    ]
+  },
+  {
+    "FN": "Yasmine",
+    "LN": "Gharbi",
+    "Major": "Marketing",
+    "dmajor": false,
+    "level": "Freshman",
+    "reports": [
+      {
+        "Title": "Social Media Campaign Study",
+        "Type": "Case Study",
+        "k1": "Instagram",
+        "k2": "Engagement",
+        "k3": "Branding",
+        "releaseDate": "2026-03-05"
+      }
+    ]
+  },
+  {
+    "FN": "Mehdi",
+    "LN": "Jlassi",
+    "Major": "Accounting",
+    "dmajor": true,
+    "level": "Senior",
+    "reports": [
+      {
+        "Title": "IFRS Adoption in Tunisian SMEs",
+        "Type": "Research",
+        "k1": "IFRS",
+        "k2": "Compliance",
+        "k3": "SMEs",
+        "releaseDate": "2026-01-28"
+      },
+      {
+        "Title": "Audit Automation Tools",
+        "Type": "Technical",
+        "k1": "Audit",
+        "k2": "Automation",
+        "k3": "Controls",
+        "releaseDate": "2026-05-12"
+      }
+    ]
+  },
+  {
+    "FN": "Lina",
+    "LN": "Haddad",
+    "Major": "Information Technology",
+    "dmajor": false,
+    "level": "Freshman",
+    "reports": [
+      {
+        "Title": "REST API Security",
+        "Type": "Technical",
+        "k1": "Security",
+        "k2": "JWT",
+        "k3": "OAuth",
+        "releaseDate": "2026-02-22"
+      }
+    ]
+  },
+  {
+    "FN": "Karim",
+    "LN": "Mansouri",
+    "Major": "Finance",
+    "dmajor": false,
+    "level": "Senior",
+    "reports": [
+      {
+        "Title": "Inflation and Investment Returns",
+        "Type": "Analytical",
+        "k1": "Inflation",
+        "k2": "Equities",
+        "k3": "Hedging",
+        "releaseDate": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "FN": "Nour",
+    "LN": "Chaabane",
+    "Major": "Marketing",
+    "dmajor": true,
+    "level": "Junior",
+    "reports": [
+      {
+        "Title": "Consumer Behavior in E-commerce",
+        "Type": "Research",
+        "k1": "Consumers",
+        "k2": "E-commerce",
+        "k3": "Surveys",
+        "releaseDate": "2026-02-03"
+      },
+      {
+        "Title": "Brand Loyalty Strategies",
+        "Type": "Case Study",
+        "k1": "Loyalty",
+        "k2": "CRM",
+        "k3": "Retention",
+        "releaseDate": "2026-04-20"
+      }
+    ]
+  },
+  {
+    "FN": "Anis",
+    "LN": "Dridi",
+    "Major": "Business Analytics",
+    "dmajor": false,
+    "level": "Senior",
+    "reports": [
+      {
+        "Title": "Sales Forecasting Dashboard",
+        "Type": "Technical",
+        "k1": "Power BI",
+        "k2": "Forecasting",
+        "k3": "KPIs",
+        "releaseDate": "2026-05-06"
+      }
+    ]
+  },
+  {
+    "FN": "Salma",
+    "LN": "Bouzid",
+    "Major": "Accounting",
+    "dmajor": false,
+    "level": "Sophomore",
+    "reports": [
+      {
+        "Title": "Cost Accounting for Small Businesses",
+        "Type": "Analytical",
+        "k1": "Budgeting",
+        "k2": "Costs",
+        "k3": "Margins",
+        "releaseDate": "2026-03-30"
+      }
+    ]
+  },
+  {
+    "FN": "Rami",
+    "LN": "Khelifi",
+    "Major": "Information Technology",
+    "dmajor": true,
+    "level": "Junior",
+    "reports": [
+      {
+        "Title": "Cloud Migration Strategy",
+        "Type": "Case Study",
+        "k1": "AWS",
+        "k2": "Migration",
+        "k3": "Cost",
+        "releaseDate": "2026-01-09"
+      },
+      {
+        "Title": "Database Optimization Techniques",
+        "Type": "Technical",
+        "k1": "SQL",
+        "k2": "Indexing",
+        "k3": "Performance",
+        "releaseDate": "2026-04-27"
+      }
+    ]
+  }
+]
