@@ -15,4 +15,8 @@ for student endpoints, token expiration and refreshing.
 - /reports: GET all, GET by id (public), POST, PUT, DELETE
 
 Demo credentials: admin / 1234
+<<<<<<< HEAD
 Test with the included Postman collection.
+=======
+Test with the included Postman collection.
+>>>>>>> 375495be0b3d7c055c2cc8cc996be315857d073a
